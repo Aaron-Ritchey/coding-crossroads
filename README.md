@@ -6,11 +6,14 @@ These notes are being shared to help friends (and maybe the occasional random vi
 
 Also, this repository is where I practice using the note-taking program [Obsidian](https://obsidian.md) and practice [personal knowledge management](https://en.wikipedia.org/wiki/Personal_knowledge_management). 
 
-* [[C-sharp Array In-place Sort]]
+## By Language
+- [[C-sharp|C#]]
+- [[Java]]
+- [[PostgreSQL]]
+
+## Unpolished Notes
 * [[Java Initialize Array]]
-* [[Java Array In-place Sort]]
 * [[PostgreSQL "Relation does not exist"]]
-* [[PostgreSQL NULL]]
 * [[Ruby Array Frequency]]
 * [[CPP Range-based For Loop]]
 * [[Rust Iterators]]

@@ -1,5 +1,11 @@
 #languages/Java #concepts/array/initialize 
 ## In-place Sort
-> `Arrays.sort(array)`
 
+```
+Arrays.sort(array);
+```
 ## Sort to New
+
+```
+<Code TBD>
+```
