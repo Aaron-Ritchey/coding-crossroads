@@ -1,0 +1,1 @@
+(A note explaining my gripe about the standard reduce examples being lame.)

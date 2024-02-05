@@ -23,3 +23,7 @@ Also, this repository is where I practice using the note-taking program [Obsidia
 * [[Rust Panic]]
 * [[Rust PrintLine]]
 * [[Rust Macro]]
+* [[Swift Type Juggling]]
+* [[Swift Ternary Gotcha]]
+* [[Useless Reduce Examples]]
+* [[Pandas Mode]]
