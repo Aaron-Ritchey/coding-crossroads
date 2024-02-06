@@ -12,7 +12,6 @@ Also, this repository is where I practice using the note-taking program [Obsidia
 - [[PostgreSQL]]
 
 ## Unpolished Notes
-* [[Java Initialize Array]]
 * [[PostgreSQL "Relation does not exist"]]
 * [[Ruby Array Frequency]]
 * [[CPP Range-based For Loop]]

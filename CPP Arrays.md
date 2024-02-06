@@ -2,9 +2,10 @@
 
 **TLDR:** you're probably looking for [[CPP Vectors|C++ Vectors]].
 
-Arrays in C++ can never be resized.
+C++ arrays are "fixed length".
 
 Arrays also cannot be initialized to a specific size based on a dynamic value.
+## Initialization
 
 ```c++
 // PSEUDO-CODE

@@ -4,3 +4,4 @@ Both Java and [[C-sharp|C#]] have a lot of similarities. An entire note might so
 
 ## Concepts
 - [[Java Array In-place Sort]]
+- [[Java Arrays]]
