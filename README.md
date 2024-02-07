@@ -4,13 +4,23 @@ This repository contains a collection of topics [I've](https://github.com/aaron-
 
 These notes are being shared to help friends (and maybe the occasional random visitor) learn new languages by connecting similar ideas.
 
-Also, this repository is where I practice using the note-taking program [Obsidian](https://obsidian.md) and practice [personal knowledge management](https://en.wikipedia.org/wiki/Personal_knowledge_management). 
+Also, this repository is where I practice using the note-taking program [Obsidian](https://obsidian.md) and practice [personal knowledge management](https://en.wikipedia.org/wiki/Personal_knowledge_management).
 
 ## By Language
-- [[C-sharp|C#]]
+- [[CPP|C++]] (stylized here as **CPP**)
+- [[C-sharp|C#]] (stylized here as **C-sharp**)
 - [[Java]]
-- [[PostgreSQL]]
+- [[JavaScript]] (and [[TypeScript]])
+- [[PHP]]
+- [[Rust]]
+- [[Ruby]]
+- [[Swift]]
+- Database Languages
+	- [[Pandas]]
+	- [[PostgreSQL]]
 
+## By Uniqueness
+- (tbd)
 ## Unpolished Notes
 * [[PostgreSQL "Relation does not exist"]]
 * [[Ruby Array Frequency]]
@@ -44,3 +54,4 @@ Also, this repository is where I practice using the note-taking program [Obsidia
 * [[CPP Arrays]]
 * [[CPP Double Conditionals Bug]]
 * [[CPP Equality Assignment Bug]]
+* [[Array Resizing]]

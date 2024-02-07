@@ -1,6 +1,6 @@
 #languages/Java #concepts/array #concepts/array/initialize
 
-Java arrays are "fixed length".
+Java arrays are "[[Array Resizing|fixed width]]". If you need variable length, use the [[Java ArrayList|ArrayList object]].
 
 ## Initialization
 
