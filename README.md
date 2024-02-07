@@ -55,3 +55,22 @@ Also, this repository is where I practice using the note-taking program [Obsidia
 * [[CPP Double Conditionals Bug]]
 * [[CPP Equality Assignment Bug]]
 * [[Array Resizing]]
+* [[Pandas N-A|Pandas N/A]]
+* [[PHP Character Frequency]]
+* [[Semi-colons]]
+* [[PHP Print]]
+* [[PHP Sort Array]]
+* [[PHP Join]]
+## Repo Improvement Tasks
+- Decide if/when/how to let others contribute to this.
+	- Decide how I want this repo to be different from others.
+- Create an Acknowledgements section or page
+	- People who inspired me to create this.
+	- People who helped with this project.
+	- This is not a
+- Add an [epigram](https://en.wikipedia.org/wiki/Epigram) to each language and concept.
+	- To show how witty, pretty, and bright I am.
+## Clean-up Tasks
+- find all multi-line code chunks and add language to first line
+- combine `#concepts/string/frequency` with `#concepts/array/frequency`
+- maybe add a "draft" tag both to remind me to clean it up and to let others know the information isn't reviewed for accuracy
