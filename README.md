@@ -61,6 +61,13 @@ Also, this repository is where I practice using the note-taking program [Obsidia
 * [[PHP Print]]
 * [[PHP Sort Array]]
 * [[PHP Join]]
+* [[PostgreSQL NOT IN]]
+* [[PostgreSQL COUNT]]
+* [[Java Exponents]]
+* [[Java Min-Max]]
+* [[Java Byte Type]]
+* [[C-sharp Byte Type]]
+* [[TypeScript Abs]]
 ## Repo Improvement Tasks
 - Decide if/when/how to let others contribute to this.
 	- Decide how I want this repo to be different from others.
