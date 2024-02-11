@@ -68,6 +68,10 @@ Also, this repository is where I practice using the note-taking program [Obsidia
 * [[Java Byte Type]]
 * [[C-sharp Byte Type]]
 * [[TypeScript Abs]]
+* [[PostgreSQL WINDOW]]
+* [[PostgreSQL Subquery]]
+* [[PostgreSQL Round]]
+* [[Ruby str_to_chars]]
 ## Repo Improvement Tasks
 - Decide if/when/how to let others contribute to this.
 	- Decide how I want this repo to be different from others.
