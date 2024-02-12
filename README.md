@@ -72,6 +72,10 @@ Also, this repository is where I practice using the note-taking program [Obsidia
 * [[PostgreSQL Subquery]]
 * [[PostgreSQL Round]]
 * [[Ruby str_to_chars]]
+* [[CPP Iterate over String]]
+* [[CPP Letter Frequency]]
+* [[Swift Sort]]
+* [[Swift Array Size]]
 ## Repo Improvement Tasks
 - Decide if/when/how to let others contribute to this.
 	- Decide how I want this repo to be different from others.
