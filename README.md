@@ -76,10 +76,13 @@ Also, this repository is where I practice using the note-taking program [Obsidia
 * [[CPP Letter Frequency]]
 * [[Swift Sort]]
 * [[Swift Array Size]]
-* [[PostGreSQL HAVING]]
+* [[PostgreSQL HAVING]]
 * [[Pandas Filter]]
 * [[Integer Division]]
 * [[Python Increment Operator]]
+* [[PostgreSQL Strings]]
+* [[PHP Map and Lambda]]
+* [[PostgreSQL BETWEEN]]
 ## Repo Improvement Tasks
 - Decide if/when/how to let others contribute to this.
 	- Decide how I want this repo to be different from others.
