@@ -86,6 +86,8 @@ Also, this repository is where I practice using the note-taking program [Obsidia
 * [[PostgreSQL Group-by Month]]
 * [[Commas in Arrays]]
 * [[PostgreSQL CASE-WHEN-ELSE]]
+* [[PostgreSQL Getting Next Row's Data]]
+* [[PostgreSQL Date Comparison]]
 ## Repo Improvement Tasks
 - Decide if/when/how to let others contribute to this.
 	- Decide how I want this repo to be different from others.
