@@ -1,6 +1,12 @@
-#languages/PostgreSQL 
+#languages/PostgreSQL #concepts/conditional/ternary 
 
-I've seen some posts say "you don't need `ELSE 0` in a `CASE` statement" but I've been bitten by this twice now so it's worth remembering "NULL != 0" [[PostgreSQL NULL]]
+Some online sources inaccurately claim...
+
+> "...you don't need `ELSE 0` in a `CASE` statement!"
+
+In some cases, that's fine. In other cases, it'll cause problems.
+
+Because of the [[PostgreSQL Truthiness of NULL]] there is a substantial difference between using `ELSE 0` and omitting it. There could be some downstream code which discards `NULL` data.
 
 ```postgresql
 -- when there are no approved funds, return NULL --

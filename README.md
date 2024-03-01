@@ -22,7 +22,6 @@ Also, this repository is where I practice using the note-taking program [Obsidia
 ## By Uniqueness
 - (tbd)
 ## Unpolished Notes
-* [[PostgreSQL "Relation does not exist"]]
 * [[Ruby Array Frequency]]
 * [[CPP Range-based For Loop]]
 * [[Rust Iterators]]
@@ -85,7 +84,6 @@ Also, this repository is where I practice using the note-taking program [Obsidia
 * [[PostgreSQL BETWEEN]]
 * [[PostgreSQL Group-by Month]]
 * [[Commas in Arrays]]
-* [[PostgreSQL CASE-WHEN-ELSE]]
 * [[PostgreSQL Getting Next Row's Data]]
 * [[PostgreSQL Date Comparison]]
 * [[C-sharp Arrays]]
