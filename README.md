@@ -1,4 +1,4 @@
-# Coding Rosetta Cookbook
+# Coding Crossroads
 
 This repository contains a collection of topics [I've](https://github.com/aaron-ritchey) learned as I've been practicing on [LeetCode](https://leetcode.com).
 
