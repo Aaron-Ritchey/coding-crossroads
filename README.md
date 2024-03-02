@@ -6,6 +6,8 @@ These notes are being shared to help friends (and maybe the occasional random vi
 
 Also, this repository is where I practice using the note-taking program [Obsidian](https://obsidian.md) and practice [personal knowledge management](https://en.wikipedia.org/wiki/Personal_knowledge_management).
 
+This project is licensed under the [GNU General Public License v3.0](LICENSE)
+
 ## By Language
 - [[CPP|C++]] (stylized here as **CPP**)
 - [[C-sharp|C#]] (stylized here as **C-sharp**)
