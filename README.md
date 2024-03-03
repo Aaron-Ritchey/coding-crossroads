@@ -24,7 +24,6 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE)
 ## By Uniqueness
 - (tbd)
 ## Unpolished Notes
-* [[Ruby Array Frequency]]
 * [[CPP Range-based For Loop]]
 * [[Rust Iterators]]
 * [[Rust Lazy and Eager]]
@@ -72,7 +71,6 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE)
 * [[PostgreSQL WINDOW]]
 * [[PostgreSQL Subquery]]
 * [[PostgreSQL Round]]
-* [[Ruby str_to_chars]]
 * [[CPP Iterate over String]]
 * [[CPP Letter Frequency]]
 * [[Swift Sort]]
