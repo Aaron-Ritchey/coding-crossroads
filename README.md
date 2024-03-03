@@ -1,5 +1,4 @@
 # Coding Crossroads
-
 This repository contains a collection of topics [I've](https://github.com/aaron-ritchey) learned as I've been practicing on [LeetCode](https://leetcode.com).
 
 These notes are being shared to help friends (and maybe the occasional random visitor) learn new languages by connecting similar ideas.
@@ -7,7 +6,6 @@ These notes are being shared to help friends (and maybe the occasional random vi
 Also, this repository is where I practice using the note-taking program [Obsidian](https://obsidian.md) and practice [personal knowledge management](https://en.wikipedia.org/wiki/Personal_knowledge_management).
 
 This project is licensed under the [GNU General Public License v3.0](LICENSE)
-
 ## By Language
 - [[CPP|C++]] (stylized here as **CPP**)
 - [[C-sharp|C#]] (stylized here as **C-sharp**)
@@ -20,9 +18,9 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE)
 - Database Languages
 	- [[Pandas]]
 	- [[PostgreSQL]]
-
-## By Uniqueness
-- (tbd)
+## By Concepts
+- [[Commas in Arrays]]
+- [[Integer Division]]
 ## Unpolished Notes
 * [[CPP Range-based For Loop]]
 * [[Rust Iterators]]
@@ -77,13 +75,11 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE)
 * [[Swift Array Size]]
 * [[PostgreSQL HAVING]]
 * [[Pandas Filter]]
-* [[Integer Division]]
 * [[Python Increment Operator]]
 * [[PostgreSQL Strings]]
 * [[PHP Map and Lambda]]
 * [[PostgreSQL BETWEEN]]
 * [[PostgreSQL Group-by Month]]
-* [[Commas in Arrays]]
 * [[PostgreSQL Getting Next Row's Data]]
 * [[PostgreSQL Date Comparison]]
 * [[C-sharp Arrays]]
@@ -105,6 +101,8 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE)
 	- This is not a
 - Add an [epigram](https://en.wikipedia.org/wiki/Epigram) to each language and concept.
 	- To show how witty, pretty, and bright I am.
+- Set up a linter?
+- Look into how to post this vault in GitHub with correct URLs.
 ## Clean-up Tasks
 - find all multi-line code chunks and add language to first line
 - combine `#concepts/string/frequency` with `#concepts/array/frequency`

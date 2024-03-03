@@ -2,14 +2,16 @@
 
 PostgreSQL feels similar to MySQL.
 
-As of February 2024, I'm going through [LeetCode's SQL 50 Study Plan](https://leetcode.com/studyplan/top-sql-50/), so I'll learn what makes it different.
+As of February 2024, I'm going through [LeetCode's SQL 50 Study Plan](https://leetcode.com/studyplan/top-sql-50/), so I'm learning what makes it different from MySQL.
 ## Name Origin
-
 The name is a mathematical pun.
 
-PostgreSQL was originally called "*Postgres*", and was based on another database, "*Ingres*".
-
-In mathematics, there is "Prefix notation", "**In**fix notation", and... "**Post**fix notation".
+> PostgreSQL was originally called "*Postgres*", and was based on another database, "*Ingres*".
+>
+> In mathematics, there is:
+> - "**Pre**fix notation"
+> - "**In**fix notation", and...
+> - "**Post**fix notation".
 ## Concepts
 - [SQL Keywords - PostgreSQL Docs](https://www.postgresql.org/docs/current/sql-keywords-appendix.html)
 - [[PostgreSQL CASE-WHEN-ELSE]]
