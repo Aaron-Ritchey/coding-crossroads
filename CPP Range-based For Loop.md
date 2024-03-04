@@ -1,15 +1,36 @@
 #languages/CPP #concepts/loops/foreach
 
- ```
-for (auto&& num : nums) {
-    ...
+Here's a quick code chunk for a foreach loop in C++.
+
+**NOTE:** the double ampersand is *not* a typo
+
+```c++
+int[] array = [1,2,3,4,5];
+for (auto&& element : array) {
+    cout << element << "\n";
 }
+> 1
+> 2
+> 3
+> 4
+> 5
 ```
+## Double Ampersand
+> 🌈🌈 ...what does it mean?
 
-The `auto&& num` has something to do with pointers and "deduction". The documentation says: "*It is \[safe and preferable] to use deduction.*" See the docs below.
+(While I couldn't resist the meme, TBH, I'm still learning about [[CPP LValue and RValue]] so this section is incomplete.)
 
-Using `auto&&` (or `auto&`) will let you modify the value of that element. Using just `auto` creates a copy of that element. And supposedly in simple cases, it doesn't matter if you use `auto` or `auto&` because compilers can optimize in simple cases.
+| code | meaning |
+| ---- | ---- |
+| `auto element : array` | **Access by Value**<br>Assign a *copy* of each array element to `num`. We can't edit `array`.  |
+| `auto& element : array` | **Access by CONST Reference**<br>We get a reference to the value, so we *could* edit the `array`. |
+| `auto&& element : array` | **Access by Forwarding Reference**<br>We ...also get a reference to the value? |
+The documentation\[1] says that "*it is \[safe and preferable] to use \[&&\].*"
 
-In all cases of `auto` or `auto&` or `auto&&`, the `auto` says "set `num` as whatever type `nums` is.
+And supposedly in simple cases, compilers can optimize in simple cases so it won't matter whether you use `auto` or `auto&` or `auto&&`.
 
-https://en.cppreference.com/w/cpp/language/range-for
+In all cases of `auto` or `auto&` or `auto&&`, the `auto` says "*define `num` as whatever type `num` is*".
+
+## Read More
+- \[1] [Range-based for loop - C++ Docs](https://en.cppreference.com/w/cpp/language/range-for)
+- [Forwarding References - C++ Docs](https://en.cppreference.com/w/cpp/language/reference#Forwarding_references)
