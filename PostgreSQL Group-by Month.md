@@ -13,7 +13,7 @@ SELECT
 FROM
 	Transactions
 GROUP BY
-	DATE_TRUNC('month', trans_date)
+	v
 ```
 
 ## Read More

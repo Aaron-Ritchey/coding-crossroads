@@ -92,6 +92,10 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE)
 * [[PostgreSQL Max Value Data]]
 * [[Swift Arrays]]
 * [[Swift Map]]
+* [[PostgreSQL Enumerate]]
+* [[PostgreSQL Modulo]]
+* [[PostgreSQL Equality]]
+* [[Databases are Not 2D Arrays]]
 ## Repo Improvement Tasks
 - Decide if/when/how to let others contribute to this.
 	- Decide how I want this repo to be different from others.
