@@ -96,6 +96,8 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE)
 * [[PostgreSQL Modulo]]
 * [[PostgreSQL Equality]]
 * [[Databases are Not 2D Arrays]]
+* [[PostgreSQL Static List]]
+* [[PostgreSQL Substring]]
 ## Repo Improvement Tasks
 - Decide if/when/how to let others contribute to this.
 	- Decide how I want this repo to be different from others.

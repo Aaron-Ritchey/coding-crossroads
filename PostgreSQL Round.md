@@ -1,4 +1,4 @@
-#languages/PostgreSQL #math/round
+#languages/PostgreSQL #math/round #math/floating
 
 ```postgresql
 -- TODO: need to verify this code works --
@@ -21,4 +21,14 @@ SELECT
 	Countings.numerator,
 	Countings.denominator,
 	ROUND(Countings.numerator::numeric / Countings.denominator, 2) AS ratio
+```
+
+Also, when you have a `double precision`, you'll need to cast that into `numeric`.
+
+```postgresql
+-- assumes `lat_start` and `lat_dest` are double-precision numbers
+SELECT ROUND(CAST((lat_start + lat_dest)/2 AS numeric), 4)
+
+SELECT ROUND((lat_start + lat_dest)/2 , 4)
+> ERROR: function round(double precision, integer) does not exist
 ```
