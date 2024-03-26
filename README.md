@@ -99,6 +99,7 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE)
 * [[PostgreSQL Static List]]
 * [[PostgreSQL Substring]]
 * [[PostgreSQL String Matching]]
+* [[Ruby Reduce]]
 ## Repo Improvement Tasks
 - Decide if/when/how to let others contribute to this.
 	- Decide how I want this repo to be different from others.
