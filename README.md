@@ -22,8 +22,6 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE)
 - [[Commas in Arrays]]
 - [[Integer Division]]
 ## Unpolished Notes
-* [[Swift Type Juggling]]
-* [[Swift Ternary Gotcha]]
 * [[Useless Reduce Examples]]
 * [[Pandas Mode]]
 * [[PostgreSQL Length]]
@@ -35,11 +33,6 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE)
 * [[C-sharp Dictionary]]
 * [[C-sharp Iterate Over String]]
 * [[Java CharAt]]
-* [[Swift Dictionary]]
-* [[Swift Foreach]]
-* [[Swift For-in]]
-* [[Swift Print]]
-* [[Swift Strings]]
 * [[CPP Dictionary]]
 * [[CPP Arrays]]
 * [[CPP Double Conditionals Bug]]
@@ -63,8 +56,6 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE)
 * [[PostgreSQL Round]]
 * [[CPP Iterate over String]]
 * [[CPP Letter Frequency]]
-* [[Swift Sort]]
-* [[Swift Array Size]]
 * [[PostgreSQL HAVING]]
 * [[Pandas Filter]]
 * [[Python Increment Operator]]
@@ -86,8 +77,6 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE)
 * [[CPP print]]
 * [[CPP LValue and RValue]]
 * [[PostgreSQL Max Value Data]]
-* [[Swift Arrays]]
-* [[Swift Map]]
 * [[PostgreSQL Enumerate]]
 * [[PostgreSQL Modulo]]
 * [[PostgreSQL Equality]]
@@ -97,7 +86,6 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE)
 * [[PostgreSQL String Matching]]
 * [[Ruby Reduce]]
 * [[PostgreSQL Call Column by Index]]
-* [[Swift Enumerate]]
 ## Repo Improvement Tasks
 - Decide if/when/how to let others contribute to this.
 	- Decide how I want this repo to be different from others.
