@@ -22,10 +22,6 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE)
 - [[Commas in Arrays]]
 - [[Integer Division]]
 ## Unpolished Notes
-* [[Rust Lazy and Eager
-* [[Rust Panic]]
-* [[Rust PrintLine]]
-* [[Rust Macro]]
 * [[Swift Type Juggling]]
 * [[Swift Ternary Gotcha]]
 * [[Useless Reduce Examples]]

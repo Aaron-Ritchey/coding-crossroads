@@ -15,3 +15,8 @@ If you're looking for some actual wordplay trivia...
 * [[Rust Primitive usize]]
 ## Gotchas
 (TBD)
+## Unpolished Notes
+* [[Rust Lazy and Eager]]
+* [[Rust Macro]]
+* [[Rust Panic]]
+* [[Rust PrintLine]]
