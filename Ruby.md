@@ -7,3 +7,7 @@ The name originated as a pun on ***Perl*** (another precious material used for j
 ## Gotchas
 While every language will have gotchas, Ruby feels like the most forgiving when arriving from other languages.
 - (TBD)
+## Unpolished Notes
+* [[Ruby Curly Braces]]
+* [[Ruby FOR vs EACH]]
+* [[Ruby Reduce]]

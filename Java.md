@@ -8,3 +8,8 @@ Both Java and [[C-sharp|C#]] have a lot of similarities. An entire note might so
 - [[Java Arrays]]
 ## Gotchas
 (TBD)
+## Unpolished Notes
+* [[Java Byte Type]]
+* [[Java CharAt]]
+* [[Java Exponents]]
+* [[Java Min-Max]]

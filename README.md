@@ -12,6 +12,7 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE)
 - [[Java]]
 - [[JavaScript]] (and [[TypeScript]])
 - [[PHP]]
+- [[Python]]
 - [[Rust]]
 - [[Ruby]]
 - [[Swift]]
@@ -23,17 +24,9 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE)
 - [[Integer Division]]
 ## Unpolished Notes
 * [[Useless Reduce Examples]]
-* [[Java CharAt]]
 * [[Array Resizing]]
 * [[Semi-colons]]
-* [[Java Exponents]]
-* [[Java Min-Max]]
-* [[Java Byte Type]]
-* [[Python Increment Operator]]
-* [[Ruby FOR vs EACH]]
-* [[Ruby Curly Braces]]
 * [[Databases are Not 2D Arrays]]
-* [[Ruby Reduce]]
 ## Repo Improvement Tasks
 - Decide if/when/how to let others contribute to this.
 	- Decide how I want this repo to be different from others.
