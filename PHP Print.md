@@ -1,6 +1,6 @@
 #languages/PHP #concepts/print 
 
-PHP has the unquie `echo` ~~function~~ language construct. (*Not* a function.)
+PHP has the unique `echo` ~~function~~ language construct. (*Not* a function.)
 
 ```PHP
 echo "hello";

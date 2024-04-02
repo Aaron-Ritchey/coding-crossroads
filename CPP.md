@@ -9,6 +9,7 @@
 * [[CPP Arrays]]
 * [[CPP Bitwise Operators]]
 * [[CPP charAt]]
+* [[CPP cout]]
 * [[CPP Dictionary]]
 * [[CPP Double Conditionals Bug]]
 * [[CPP Equality Assignment Bug]]

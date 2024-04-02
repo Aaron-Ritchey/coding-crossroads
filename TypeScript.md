@@ -7,6 +7,7 @@
 (TBD)
 ## Unpolished Notes
 * [[TypeScript Abs]]
+* [[JavaScript console.log]]
 * [[TypeScript Destructuring]]
 * [[TypeScript Division]]
 * [[TypeScript Hoist]]

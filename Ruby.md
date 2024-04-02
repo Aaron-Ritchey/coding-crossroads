@@ -10,4 +10,5 @@ While every language will have gotchas, Ruby feels like the most forgiving when 
 ## Unpolished Notes
 * [[Ruby Curly Braces]]
 * [[Ruby FOR vs EACH]]
+* [[Ruby puts]]
 * [[Ruby Reduce]]

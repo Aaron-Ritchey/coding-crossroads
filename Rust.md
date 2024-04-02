@@ -1,5 +1,4 @@
 #languages/Rust #home 
-
 ## Name Origin
 The name has a large [false etymology](https://en.wikipedia.org/wiki/False_etymology) which originated by the language's designer. In fact, the language designer has [no idea](https://www.reddit.com/r/rust/comments/27jvdt/internet_archaeology_the_definitive_endall_source/) where it the name came from.
 
@@ -13,10 +12,10 @@ If you're looking for some actual wordplay trivia...
 * [[Rust Iterators]]
 * [[Rust Enumerate]]
 * [[Rust Primitive usize]]
+* [[Rust PrintLine]]
 ## Gotchas
 (TBD)
 ## Unpolished Notes
 * [[Rust Lazy and Eager]]
 * [[Rust Macro]]
 * [[Rust Panic]]
-* [[Rust PrintLine]]
