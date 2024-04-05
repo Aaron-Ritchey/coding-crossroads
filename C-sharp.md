@@ -4,9 +4,10 @@ Both C# and [[Java]] have a lot of similarities. An entire note might someday be
 ## Name Origin
 (TBD)
 ## Concepts
-* [[C-sharp Array In-place Sort]]
+* [[C-sharp Array Sorting]]
 ## Gotchas
-(TBD)
+- C-sharp is a reference-based language.
+	- You have to be careful when trying to "duplicate" data.
 ## Unpolished Notes
 * [[C-sharp Arrays]]
 * [[C-sharp Byte Type]]
