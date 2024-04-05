@@ -2,7 +2,13 @@
 
 Both C# and [[Java]] have a lot of similarities. An entire note might someday be written here to point out the similarities and the differences.
 ## Name Origin
-(TBD)
+Since C# would be an upgrade to C++, the joke was to call it C++++, which can stylistically be displayed the ["sharp" musical symbol](https://en.wikipedia.org/wiki/Sharp_(music)) `♯` which can also be typed with the [number sign](https://en.wikipedia.org/wiki/Number_sign) symbol`#` 
+
+Incidentally, it might have been called `COOL` (C-like Object Oriented Language) except for trademark issues.
+
+> "We looked seriously at keeping the name \[COOL] for the final product but it was just not feasible from a trademark perspective, as there were way too many cool things out there."
+
+Decades later, Apple was able to acquire the naming rights for [[Swift]].
 ## Concepts
 * [[C-sharp Array Sorting]]
 ## Gotchas

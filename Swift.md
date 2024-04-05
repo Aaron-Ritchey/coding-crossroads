@@ -6,7 +6,7 @@ The working name for the project was ["Shiny"](https://www.youtube.com/watch?v=8
 > 
 > But I'm very happy with the way the name turned out....
 
-While the gap between those two paragraphs could leave a lot to the imagination, I'm guessing the transfer of the name was hassle free based on some casual research.
+While the gap between those two paragraphs could leave a lot to the imagination, I'm guessing that if there had been a big legal fight. it would have been easy to discover with some casual browsing.
 ## Concepts
 (TBD)
 ## Gotchas
