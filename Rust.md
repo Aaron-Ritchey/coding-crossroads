@@ -12,11 +12,11 @@ If you're looking for some actual wordplay trivia...
 * [[Rust Iterators]]
 * [[Rust Enumerate]]
 * [[Rust Macro]]
+* [[Rust Panic]]
 * [[Rust Primitive usize]]
 * [[Rust PrintLine]]
 ## Gotchas
 (TBD)
 ## Unpolished Notes
 * [[Rust Lazy and Eager]]
-* [[Rust Panic]]
 * [[Unsafe Rust]]

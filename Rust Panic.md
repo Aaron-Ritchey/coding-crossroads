@@ -4,4 +4,8 @@
 
 Rust does not throw exceptions. It **panics**.
 
-> `panic!("You dun goof'd.")`
+```rust
+panic!("You dun goof'd.")
+```
+
+Note: this isn't a function, it's a [[Rust Macro|macro]]. While that's nothing you need to worry about when you're using it, keep in mind that `!` means its a macro.

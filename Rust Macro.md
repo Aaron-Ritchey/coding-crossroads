@@ -2,7 +2,7 @@
 
 Rust has various "macros" available. They can be recognized by the `!` symbol.
 
-While a macro might look like a function, there are subtle differences. If you're new to Rust, learn to use the common ones first. If you're new to macros, there are plenty of articles about "functions vs macros", of which I have no particular suggestion at the moment.
+While a macro might look like a function, there are subtle differences. If you're new to Rust, learn to use the common macros before making your own. If you're new to *macros*, there are plenty of articles about "functions vs macros", of which I have no particular suggestion at the moment.
 ## Examples
 
 ```rust
