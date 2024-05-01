@@ -7,5 +7,6 @@ The name comes from the term "Panel Data". Nothing to do with the animal.
 (TBD)
 ## Unpolished Notes
 * [[Pandas Filter]]
+* [[Pandas Melt]]
 * [[Pandas Mode]]
 * [[Pandas N-A|Pandas N/A]]
