@@ -10,4 +10,5 @@
 * [[JavaScript console.log]]
 * [[TypeScript Destructuring]]
 * [[TypeScript Division]]
+* [[TypeScript Foreach]]
 * [[TypeScript Hoist]]
