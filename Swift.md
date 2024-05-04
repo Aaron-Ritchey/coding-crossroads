@@ -17,7 +17,6 @@ While the gap between those two paragraphs could leave a lot to the imagination,
 * [[Swift Dictionary]]
 * [[Swift Enumerate]]
 * [[Swift Foreach]]
-* [[Swift For-in]]
 * [[Swift Map]]
 * [[Swift Print]]
 * [[Swift Sort]]
