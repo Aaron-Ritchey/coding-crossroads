@@ -12,4 +12,5 @@ Both Java and [[C-sharp|C#]] have a lot of similarities. An entire note might so
 * [[Java Byte Type]]
 * [[Java CharAt]]
 * [[Java Exponents]]
+* [[Java Lists, Stacks, Queues]]
 * [[Java Min-Max]]
