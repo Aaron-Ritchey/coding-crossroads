@@ -8,7 +8,7 @@ The working name for the project was ["Shiny"](https://www.youtube.com/watch?v=8
 
 While the gap between those two paragraphs could leave a lot to the imagination, I'm guessing that if there had been a big legal fight. it would have been easy to discover with some casual browsing.
 ## Concepts
-(TBD)
+* [[Swift Foreach]]
 ## Gotchas
 (TBD)
 ## Unpolished Notes
@@ -16,9 +16,10 @@ While the gap between those two paragraphs could leave a lot to the imagination,
 * [[Swift Array Size]]
 * [[Swift Dictionary]]
 * [[Swift Enumerate]]
-* [[Swift Foreach]]
+
 * [[Swift Map]]
 * [[Swift Print]]
+* [[Swift Range]]
 * [[Swift Sort]]
 * [[Swift Strings]]
 * [[Swift Ternary Gotcha]]
